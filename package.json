@@ -1,0 +1,14 @@
+{
+  "name": "scc-myc-shared",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.2",
+    "@types/uuid": "^7.0.3"
+  }
+}
